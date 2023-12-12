@@ -1,0 +1,19 @@
+﻿using DAL.Model;
+using DAL.view;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL.IRepository
+{
+    internal interface ISachRepos
+    {
+        bool AddSach(string id, Sach sach);
+        bool DeleteSach(string masach);
+        bool UpdateSach(string masach,Sach sach);
+        List<SachJoin> GetAll();
+        List<SachJoin> GetById(string id);
+    }
+}

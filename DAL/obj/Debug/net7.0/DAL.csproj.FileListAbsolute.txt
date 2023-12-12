@@ -1,0 +1,15 @@
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\bin\Debug\net7.0\DAL.dll
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\bin\Debug\net7.0\DAL.pdb
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.dll
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.pdb
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\PRO131_Du an1 (UDPM.NET)\NhomLatDat\NhomLatDat\DAL\obj\Debug\net7.0\DAL.sourcelink.json
